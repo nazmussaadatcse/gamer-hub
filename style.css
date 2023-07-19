@@ -630,6 +630,12 @@ footer p {
         align-items: center;
         justify-content: center;
     }
+    .banner {
+        position: relative;
+        margin-left: 0px;
+        padding-left: 0px;
+    
+    }
     
 
     
